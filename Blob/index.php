@@ -6,7 +6,7 @@
 <head>
 
 </head>
-<body id="img1" background="images/12.jpg">
+<body id="img1" background="images/10.png">
 <?php
  
 ini_set("display_errors", "0");
